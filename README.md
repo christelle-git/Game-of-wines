@@ -8,7 +8,7 @@ The problem is turned into a binary classification problem and we apply both cla
 We study the influence of the hyper-parameter $\gamma$ of the kernel.
 
 <p align="center">
-  <img src="https://github.com/christelle-git/Game-of-wubes/blob/master/white_wine.gif">
+  <img src="https://github.com/christelle-git/Game-of-wines/blob/master/white_wine.gif">
 </p>
 
 
